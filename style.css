@@ -47,6 +47,7 @@ a: hover {
 	 }
 
 .example {size: 50px;
+height: auto;
 border-radius: 5px ; 
 width: 400px;
 }
