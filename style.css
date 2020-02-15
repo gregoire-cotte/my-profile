@@ -1,0 +1,63 @@
+
+body {background-image: url(P1030126.JPG); 
+}
+body{font-style: }
+
+h1 {color:lightcyan;
+	font-family: Acme;
+	text-align: justify;
+}
+h2{color:rgb(254, 241, 184);
+	font-family: Calibri;
+	font-weight: 100;
+	font-size: 30px;
+	text-align: center;
+}
+#original{font-family: Arial;}
+
+.description{font-size: 20px;
+  font-family: courier;
+text-align: center;
+font-weight:bold;}
+
+a{text-decoration: none;
+color: rgb(254, 241, 184);
+font-family: calibri;}
+
+#logo{color: black;
+font-weight: bold;
+text-align: center;
+font-size: 50px;
+padding: 0px auto;
+}
+
+ul{list-style: none;}
+a: hover {
+	font-size: : 17px;
+}
+
+.blue {background: rgba(95,158,160,.7);
+	padding: 30px;
+	margin-top: 35px;
+	margin-bottom:35px; 
+	margin-left: 60px;
+	margin-right: 60px;
+	border-radius: 15px;
+	box-shadow: 0px 10px 30px rgba(95,158,160,.5);
+	 }
+
+.example {size: 50px;
+border-radius: 5px ; 
+width: 400px;
+}
+
+.small{font-style: italic;
+}
+
+
+@media (max-width: 500px) {
+	.container{width: 300px}
+}
+
+
+
