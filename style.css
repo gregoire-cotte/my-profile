@@ -1,8 +1,24 @@
 
 body {background-image: url(P1030126.JPG); 
 }
-body{font-style: }
 
+.header{padding: 30px;
+	margin-top: 35px;
+	margin-bottom:35px; 
+	margin-left: 60px;
+	margin-right: 60px;
+	border-radius: 15px;
+ }
+
+h1 {color: pink;
+	font-family: Bahnschrift Condensed;
+	text-align: center;
+	font-size: 50px;
+}
+.head{ font-family: courier;
+	font-size: 30px;
+	color: white;
+}
 h1 {color:lightcyan;
 	font-family: Acme;
 	text-align: justify;
